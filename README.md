@@ -1,5 +1,7 @@
 # Overview
 
+[![Python application test with Github Actions](https://github.com/ederff/flask_ml_service/actions/workflows/python-app.yml/badge.svg)](https://github.com/ederff/flask_ml_service/actions/workflows/python-app.yml)
+
 The intent of this project is to build a CI/CD pipeline using technologies like GitHub Actions, Azure Pipelines, Azure WebApps for a python application that can predict price of Boston houses.
 
 ## Project Plan
