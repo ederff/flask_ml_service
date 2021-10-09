@@ -40,6 +40,10 @@ The intent of this project is to build a CI/CD pipeline using technologies like 
 
 ![Home](doc_files/browser_home_evdc.png)
 
+- Application running on Azure portal
+
+![App Service](doc_files/app_service.png)
+
 - Run predict script with the correct application url name to validate the API functionality
 
 ![predict](doc_files/predict.png)
