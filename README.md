@@ -48,6 +48,10 @@ The intent of this project is to build a CI/CD pipeline using technologies like 
 
 ![predict](doc_files/predict.png)
 
+- Load tests execution through LOCUST
+
+![Load Test](doc_files/locust.png)
+
 
 ### Automatic Deployment
 
